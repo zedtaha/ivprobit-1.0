@@ -1,0 +1,4 @@
+S3method(ivprobit,formula)
+S3method(summary,ivprobit)
+export(ivprob)
+export(ivprobit)

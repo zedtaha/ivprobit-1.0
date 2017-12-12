@@ -1,0 +1,12 @@
+e636f068a3b5729558968416c3339726 *DESCRIPTION
+4804ca9242ef4410fd98b22de7f5f6b2 *NAMESPACE
+cb219b9c0b21d23986e5903b4c8af488 *R/ivprobit.R
+cf988f1253ef03d4e350812e802243b3 *data/eco.RData
+e66ebc029c2ab5497b83149673eb98c4 *man/eco.RData.Rd
+150b6b8a3323fe5f2f77b939b026289c *man/eco.Rd
+8d8384aa8beebe36ed23f0aa69b17ef5 *man/ivprob.Rd
+0ab58bebd69a5b980753959a70aa55f5 *man/ivprobit-package.Rd
+68cd9d6ae02affbb2c519ae2c3be7f04 *man/ivprobit.Rd
+445c5bed3c77dea615501ac2f7e2b193 *man/ivprobit.formula.Rd
+14dca774d216f8557e4a6cd20040d60d *man/mydata.Rd
+6d720e7ae9177d39b32f32bf85fd4f6d *man/summary.ivprobit.Rd
