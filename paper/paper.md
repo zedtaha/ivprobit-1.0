@@ -6,12 +6,12 @@ tags:
     - R
     - ivprobit
 authors: 
-   - name: Taha Zaghdoudi
-    orcid: 0000-0002-4488-5774
-    affiliation: 1
+    - name: Taha Zaghdoudi
+      orcid: 0000-0002-4488-5774
+      affiliation: 1
 affiliations:
-   - name: Faculty of Law, Economics and Management of Jendouba, Tunisia
-     index: 1
+    - name: Faculty of Law, Economics and Management of Jendouba, Tunisia
+      index: 1
 date: 13 December 2017
 bibliography: paper.bib
 ---
