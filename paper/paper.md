@@ -2,9 +2,12 @@
 title: 'ivporbit:An R package to estimate the instrumental variables probit model'
 authors: 
    -name: Taha Zaghdoudi
-   -affiliation: "Faculty of Law, Economics and Management of Jendouba, Tunisia"
-date: 12 December 2017
-output: pdf_document
+    orcid: 0000-0002-4488-5774
+    affiliation: 1
+affiliations:
+   -name: Faculty of Law, Economics and Management of Jendouba, Tunisia
+   index: 1
+date: 13 December 2017
 bibliography: paper.bib
 ---
 
