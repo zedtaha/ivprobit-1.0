@@ -11,7 +11,7 @@ date: 13 December 2017
 bibliography: paper.bib
 ---
 
-# Summary
+# Summary #
 Many econometrics study are focused in various kinds of misspecification
 in the limited-dependent variable models such as correlation between
 regressors and error term which produce inconsistent results. To avoid
@@ -32,4 +32,4 @@ method is used when the MLE fail to estimate the model.
 
 [Archive](https://zenodo.org/record/1109726#.Wi_UzlXibIU)
 
-# References
+# References #
