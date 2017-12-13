@@ -15,16 +15,16 @@ bibliography: paper.bib
 Many econometrics study are focused in various kinds of misspecification
 in the limited-dependent variable models such as correlation between
 regressors and error term which produce inconsistent results. To avoid
-this problem we apply the instrumental variable method in which we use
-the correlated variables as instruments. A two-stage method are used by
+this problem, authors applied the instrumental variable method in which they use
+the correlated variables as instruments. Nevertheless, a two-stage method are used by
 some authors [@blundell2004endogeneity] to fit the probit model but
 it produce non efficient result.
 
 However, [@newey1987efficient] expose an efficient way to
 estimate limited-dependent variable model by using the Amemiya's
-Generalized Least Squares estimators [@Amemiya1978]. The idea is to
+Generalized Least Squares estimators (AGLS) [@Amemiya1978]. Likewise, in the ivprobit package we use the AGLS method and we
 include in the two-stage model a continuous endogenous regressor. This
-method is used when the MLE fail to estimate the model.
+method is used when the maximum likelihood method (MLE) fail to estimate the model.
 
 [ivprobit CRAN](https://cran.r-project.org/web/packages/ivprobit/index.html)
 
