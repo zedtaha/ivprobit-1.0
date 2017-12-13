@@ -1,5 +1,10 @@
 ---
 title: 'ivporbit:An R package to estimate the instrumental variables probit model'
+tags:
+    - limited-dependent variable models
+    - Amemiya's Generalized Least Squares estimators
+    - R
+    - ivprobit
 authors: 
    - name: Taha Zaghdoudi
     orcid: 0000-0002-4488-5774
