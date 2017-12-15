@@ -17,9 +17,8 @@ bibliography: paper.bib
 ---
 
 # Summary #
-Many econometrics study are focused in various kinds of misspecification
-in the limited-dependent variable models such as correlation between
-regressors and error term which produce inconsistent results. To avoid
+ivprobit [@zaghdoudi] is an open source R package that fit the instrumental variables probit model. The package comprises function that deal with endogeneity misspecification especially when correlation between
+regressors and error term is determinited and which produce inconsistent results.  To avoid
 this problem, authors applied the instrumental variable method in which they use
 the correlated variables as instruments. Nevertheless, a two-stage method are used by
 some authors [@blundell2004endogeneity] to fit the probit model but
