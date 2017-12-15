@@ -39,4 +39,5 @@ ivprobit(y~x,y2~z, data)
  # the results summary
  summary(pro)
  ```
-
+# License
+MIT
