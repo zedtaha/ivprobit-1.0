@@ -2,12 +2,12 @@ Package: ivprobit
 Type: Package
 Title: Instrumental variables probit model
 Version: 1.0
-Date: 2014-09-18
+Date: 2017-12-14
 Author: Zaghdoudi Taha
 Maintainer: Zaghdoudi Taha <zedtaha@gmail.com>
 Description: ivprobit fit an Instrumental variables probit model using the
     generalized least squares estimator
-License: Artistic-2.0
+License: MIT
 Packaged: 2014-09-25 15:07:02 UTC; Taha
 NeedsCompilation: no
 Repository: CRAN
