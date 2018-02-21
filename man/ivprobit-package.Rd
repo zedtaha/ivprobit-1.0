@@ -13,7 +13,7 @@ ivprobit fit an Instrumental variables probit model using the generalized least 
 Package: \tab ivprobit\cr
 Type: \tab Package\cr
 Version: \tab 1.1\cr
-Date: \tab 2018-02-20\cr
+Date: \tab 2018-02-21\cr
 License: \tab GPL-3\cr
 }
 }
