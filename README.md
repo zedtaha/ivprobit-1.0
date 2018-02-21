@@ -1,4 +1,4 @@
-# ivprobit-1.0
+# ivprobit-1.1
 ivprobit fit an Instrumental variables probit model using the generalized least squares estimator
 # Example
  
@@ -34,4 +34,4 @@ The function is :
  summary(pro)
  ```
 # License
-MIT
+GPL-3
