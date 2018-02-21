@@ -30,7 +30,7 @@ Generalized Least Squares estimators (AGLS) [@Amemiya1978]. Likewise, in the ivp
 include in the two-stage model a continuous endogenous regressor. This
 method is used when the maximum likelihood method (MLE) fail to estimate the model.
 
-ivprobit is MIT-licensed and can be retrieved from GitHub [Repository](https://github.com/cran/ivprobit)
+ivprobit is GPL-3 licensed and can be retrieved from GitHub [Repository](https://github.com/cran/ivprobit)
 
 [ivprobit CRAN](https://cran.r-project.org/web/packages/ivprobit/index.html)
 
