@@ -3,7 +3,7 @@
 \alias{ivProbit}
 \docType{package}
 \title{
-Instrumental variables probit model 
+Instrumental Variables Probit Model 
 }
 \description{
 ivprobit fit an Instrumental variables probit model using the generalized least squares estimator 
@@ -14,7 +14,7 @@ Package: \tab ivprobit\cr
 Type: \tab Package\cr
 Version: \tab 1.0\cr
 Date: \tab 2018-02-20\cr
-License: \tab MIT\cr
+License: \tab GPL-3\cr
 }
 }
 
