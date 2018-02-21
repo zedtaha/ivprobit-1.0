@@ -13,22 +13,14 @@ ivprobit fit an Instrumental variables probit model using the generalized least 
 Package: \tab ivprobit\cr
 Type: \tab Package\cr
 Version: \tab 1.0\cr
-Date: \tab 2014-09-18\cr
-License: \tab Artistic-2.0\cr
+Date: \tab 2018-02-20\cr
+License: \tab MIT\cr
 }
 }
 
 \author{
-Zaghdoudi Taha
+Taha Zaghdoudi
 
-Zaghdoudi Taha <zedtaha@gmail.com>
+Taha Zaghdoudi <zedtaha@gmail.com>
 
-}
-
-\examples{
-#load data
-dat<-system.file("data","eco.RData",package="ivprobit")
-load(dat)
-pro<-ivprobit(d2~ltass+roe+div,cbind(eqrat,bonus)~ltass+roe+div+gap+cfa,mydata)
-summary(pro)
 }
