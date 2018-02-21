@@ -13,19 +13,13 @@ The data we use in this example represents the Foreign-Exchange Derivatives Use 
 
 ```R
 # load the database
- dat<-system.file("data","eco.RData",package="ivprobit")
- load(dat)
- pro<-library("ivprobit", lib.loc="C:/Program Files/R/R-3.0.3/library")
- #load data
- dat<-system.file("data","eco.RData",package="ivprobit")
- load(dat)
+ data(eco)
   ```
 
 The function is :
-```R
-ivprobit(y~x,y2~z, data)
-```
-1. y: the dichotomous l.h.s vector
+
+1. The formula is y~x|y2|z
+2. y: the dichotomous l.h.s vector
 2. x:  the r.h.s. exogenous variables matrix.
 3. y2:  the r.h.s. endogenous variables vector or matrix
 4. z:  the complete set of instruments (a matrix)
@@ -35,7 +29,7 @@ ivprobit(y~x,y2~z, data)
 
 ```R
 # fit the instrumental probit model
- pro<-ivprobit(d2~ltass+roe+div,cbind(eqrat,bonus)~ltass+roe+div+gap+cfa,mydata)
+ pro<-ivprobit(d2~ltass+roe+div|eqrat+bonus|ltass+roe+div+gap+cfa,eco)
  # the results summary
  summary(pro)
  ```
