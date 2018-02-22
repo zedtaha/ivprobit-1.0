@@ -34,6 +34,6 @@ ivprobit is GPL-3 licensed and can be retrieved from GitHub [Repository](https:/
 
 [ivprobit CRAN](https://cran.r-project.org/web/packages/ivprobit/index.html)
 
-[Archive](https://zenodo.org/record/1109726#.Wi_UzlXibIU)
+[Archive](https://zenodo.org/record/1183253#.Wo7IEYPOXIU)
 
 # References #
