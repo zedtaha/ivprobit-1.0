@@ -1,7 +1,7 @@
 ---
 output: github_document
 ---
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1109726.svg)](https://doi.org/10.5281/zenodo.1109726)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1183253.svg)](https://doi.org/10.5281/zenodo.1183253)
 
 # ivprobit-1.1
 ivprobit fit an Instrumental variables probit model using the generalized least squares estimator
